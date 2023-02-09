@@ -14,3 +14,15 @@ body{
     width: 313px;
     height: 513px;
 }
+
+table{
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+
+
+th , td{
+    border: 1px #000000 solid;
+    color: grey;
+    padding: 5px;
+}
